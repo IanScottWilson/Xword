@@ -1,0 +1,1 @@
+A fully functioning clojure program to generate crosswords from wordlists. As it stands (10/04/12) can be used for English or Welsh. To be extended for other languages.
